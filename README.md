@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MGover
-- 👀 I’m interested in programming of course. Specifically backend but I'm looking to gain more experience in front end.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on fun projects with lots to learn
+- 👀 I’m interested in programming of course. I have lot of experience in automation, validation, and a love for algorithms
+- 🌱 I’m currently learning Flutter/Dart
+- 💞️ I’m looking to actually finish some projects that have been sitting on the backburner for too long
 - 📫 How to reach me governye@gmail.com
 
 <!---
